@@ -1,0 +1,122 @@
+fileFormatVersion: 2
+guid: 8e85645d486ec37498ed2fe8cad7487b
+timeCreated: 1518272438
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Ocean
+    100004: Ocean far A_GIPROXY
+    100006: Ocean far B_GIPROXY
+    100008: Ocean far C_GIPROXY
+    100010: Ocean far D_GIPROXY
+    100012: Ocean near A_GIPROXY
+    100014: Ocean near B_GIPROXY
+    100016: Ocean near C_GIPROXY
+    100018: Ocean near D_GIPROXY
+    400000: //RootNode
+    400002: Ocean
+    400004: Ocean far A_GIPROXY
+    400006: Ocean far B_GIPROXY
+    400008: Ocean far C_GIPROXY
+    400010: Ocean far D_GIPROXY
+    400012: Ocean near A_GIPROXY
+    400014: Ocean near B_GIPROXY
+    400016: Ocean near C_GIPROXY
+    400018: Ocean near D_GIPROXY
+    2300000: Ocean
+    2300002: Ocean far A_GIPROXY
+    2300004: Ocean far B_GIPROXY
+    2300006: Ocean far C_GIPROXY
+    2300008: Ocean far D_GIPROXY
+    2300010: Ocean near A_GIPROXY
+    2300012: Ocean near B_GIPROXY
+    2300014: Ocean near C_GIPROXY
+    2300016: Ocean near D_GIPROXY
+    3300000: Ocean
+    3300002: Ocean far A_GIPROXY
+    3300004: Ocean far B_GIPROXY
+    3300006: Ocean far C_GIPROXY
+    3300008: Ocean far D_GIPROXY
+    3300010: Ocean near A_GIPROXY
+    3300012: Ocean near B_GIPROXY
+    3300014: Ocean near C_GIPROXY
+    3300016: Ocean near D_GIPROXY
+    4300000: Ocean near D_GIPROXY
+    4300002: Ocean near C_GIPROXY
+    4300004: Ocean near B_GIPROXY
+    4300006: Ocean near A_GIPROXY
+    4300008: Ocean far D_GIPROXY
+    4300010: Ocean far C_GIPROXY
+    4300012: Ocean far B_GIPROXY
+    4300014: Ocean far A_GIPROXY
+    4300016: Ocean
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

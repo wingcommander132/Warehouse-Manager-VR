@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{2653F40C-7B5F-D099-A249-69BD1CD9E553}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/FreeForkLift/Scripts/NewCarController.cs">
+    <Files>
+      <File FileName="Assets/FreeForkLift/Scripts/ForkController.cs" Line="14" Column="5" />
+      <File FileName="Assets/FreeForkLift/Scripts/NewCarController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Project_220VR PreferredExecutionTarget="Unity.Editor" />
+</Properties>
